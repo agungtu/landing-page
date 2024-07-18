@@ -84,6 +84,11 @@ const Navigation: React.FC = () => {
                   Screenshots
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link href="/blog/KP" className="nav-link">
+                  Kebijakan Privasi B-School
+                </Link>
+              </li>
 
               <li className="nav-item">
                 <Link

@@ -1,4 +1,4 @@
-// File: /home/agung/Documents/FE WEB NEW PT SUN/landing-page/src/app/page.tsx
+// File: /home/agung/Documents/landing-page-sun-frontend/src/app/page.tsx
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

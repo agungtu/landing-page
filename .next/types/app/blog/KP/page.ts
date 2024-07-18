@@ -1,4 +1,4 @@
-// File: /home/agung/Documents/FE WEB NEW PT SUN/landing-page/src/app/blog/KP/page.jsx
+// File: /home/agung/Documents/landing-page-sun-frontend/src/app/blog/KP/page.jsx
 import * as entry from '../../../../../src/app/blog/KP/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
