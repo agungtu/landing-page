@@ -34,7 +34,7 @@ import SidebarDemosModal from "@/components/Common/SidebarDemosModal";
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Jibo - Mobile App & Software Landing Page React Template",
+  title: "PT. SUN",
   description: "Mobile App & Software Landing Page React Template",
 };
 
